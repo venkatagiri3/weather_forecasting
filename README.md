@@ -16,7 +16,7 @@ With this app, you can effortlessly stay informed about current weather conditio
 
 ## Technologies
 - React.js
-- Weather API (mention the specific API used)
+- Weather API
 
 ## Website
 Check out the Weather app [here](https://weatherdetails3.netlify.app/)
