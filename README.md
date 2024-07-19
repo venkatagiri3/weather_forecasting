@@ -4,7 +4,8 @@
 
 With this app, you can effortlessly stay informed about current weather conditions, forecasts, and more. Featuring a user-friendly interface and real-time updates, it's your go-to companion for planning outdoor activities or staying ahead of changing weather patterns.
 
-![Weather App Screenshot]("https://github.com/venkatagiri3/weather_forecasting/blob/main/weatherappScreenshot.png?raw=true")
+![Weather App Screenshot](https://github.com/venkatagiri3/weather_forecasting/blob/main/weatherappScreenshot.png?raw=true)
+
 
 ## Key Features:
 - 🔍 Location-based weather data retrieval
